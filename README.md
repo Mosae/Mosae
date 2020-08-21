@@ -1,8 +1,11 @@
   About Me
-🤔   Learning new technologies and building projects that solve real life problems
+  
+🤔   Learning new technologies and building projects that solve real life problems.
+
 🎓   Studying Computer Science and Web Development at Lambda School.
-💼   Working as a freelance web developer and looking for software engineering role
-🌱   Learning more about Computer Science & building projects for non-profit companies
+
+💼   Working as a freelance web developer and looking for software engineering role.
+🌱   Learning more about Computer Science & building projects for non-profit companies.
 
 🛠  Tech Stack
 💻   Python JavaScript React

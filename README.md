@@ -10,6 +10,7 @@
 🛢   MySQL PostSQL Express
 🔧   Visual Studio Code
 
-[![Mosae's github stats](https://github-readme-stats.vercel.app/api?username=mosae)](https://github.com/anuraghazra/github-readme-stats)
+[![Mosae's github stats](https://github-readme-stats.vercel.app/api?username=mosae&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 🤝🏻  Connect with Me
+
      

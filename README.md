@@ -10,9 +10,9 @@
 
 · 🛠   <h3>Tech Stack</h3>
 
-· 💻    Python JavaScript React.
+· 💻    React - JavaScript - Python.
 
-· 🌐    HTML CSS JavaScript Bootstrap Node.js React.
+· 🌐    HTML CSS JavaScript React Bootstrap Node.js .
 
 · 🛢    MySQL PostSQL Express.
 

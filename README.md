@@ -10,7 +10,7 @@
 
 · 🛠   <h3>Tech Stack</h3>
 
-· 💻    React - JavaScript - Python.
+· 💻    React - JavaScript - Angular - TypeScript - Python.
 
 · 🌐    HTML CSS JavaScript React Bootstrap Node.js .
 

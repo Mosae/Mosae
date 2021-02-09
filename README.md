@@ -23,7 +23,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://mosae.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-mosae.vercel.app/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://mosae.dev"><img alt="Website" src="https://img.shields.io/badge/Website-mosae.dev/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mosae-litsoane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mosae%20Litsoane%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mosae5/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mosae5-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mosae@solomonwatson.com"><img alt="Email" src="https://img.shields.io/badge/Email-mosae@solomonwatson.com-blue?style=flat-square&logo=gmail"></a>

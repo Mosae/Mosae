@@ -10,13 +10,13 @@
 
 · 🛠   <h3>Tech Stack</h3>
 
-· 💻    React - JavaScript - Angular - TypeScript - Python.
+· 💻    React - JavaScript - Angular - TypeScript - Python - PHP.
 
-· 🌐    HTML CSS JavaScript React Bootstrap Node.js .
+· 🌐    HTML CSS JavaScript React Bootstrap Node.js Sprinkle.
 
 · 🛢    MySQL PostSQL Express.
 
-· 🔧    Visual Studio Code.
+· 🔧    Visual Studio Code Adobe XD, Sketch.
 
 [![Mosae's github stats](https://github-readme-stats.vercel.app/api?username=mosae&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

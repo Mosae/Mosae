@@ -1,0 +1,22 @@
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400&display=swap');
+      .banner-name { font-family: 'DM Serif Display', serif; font-size: 42px; fill: #111; letter-spacing: -1px; }
+      .banner-role { font-family: 'DM Sans', sans-serif; font-weight: 300; font-size: 13px; fill: #555; letter-spacing: 3px; text-transform: uppercase; }
+      .banner-tag  { font-family: 'DM Sans', sans-serif; font-weight: 400; font-size: 11px; fill: #888; letter-spacing: 1px; }
+    </style>
+  </defs>
+  <rect x="40" y="38" width="2" height="84" rx="1" fill="#888" opacity="0.4"/>
+  <text class="banner-name" x="56" y="88">Mosae Litsoane</text>
+  <text class="banner-role" x="56" y="112">Founder · Solomon Watson</text>
+  <text class="banner-tag"  x="56" y="132">WordPress · React · Node · PHP — Pittsburgh, PA</text>
+  <g opacity="0.1" fill="#111">
+    <circle cx="580" cy="50" r="1.5"/><circle cx="596" cy="50" r="1.5"/><circle cx="612" cy="50" r="1.5"/><circle cx="628" cy="50" r="1.5"/><circle cx="644" cy="50" r="1.5"/>
+    <circle cx="580" cy="66" r="1.5"/><circle cx="596" cy="66" r="1.5"/><circle cx="612" cy="66" r="1.5"/><circle cx="628" cy="66" r="1.5"/><circle cx="644" cy="66" r="1.5"/>
+    <circle cx="580" cy="82" r="1.5"/><circle cx="596" cy="82" r="1.5"/><circle cx="612" cy="82" r="1.5"/><circle cx="628" cy="82" r="1.5"/><circle cx="644" cy="82" r="1.5"/>
+    <circle cx="580" cy="98" r="1.5"/><circle cx="596" cy="98" r="1.5"/><circle cx="612" cy="98" r="1.5"/><circle cx="628" cy="98" r="1.5"/><circle cx="644" cy="98" r="1.5"/>
+    <circle cx="580" cy="114" r="1.5"/><circle cx="596" cy="114" r="1.5"/><circle cx="612" cy="114" r="1.5"/><circle cx="628" cy="114" r="1.5"/><circle cx="644" cy="114" r="1.5"/>
+  </g>
+  <line x1="40" y1="148" x2="640" y2="148" stroke="#ccc" stroke-width="0.5"/>
+</svg>

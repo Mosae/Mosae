@@ -1,33 +1,45 @@
-  <h3>About Me</h3>
-  
-· 🤔    Learning new technologies and building projects that solve real life problems.
-
-· 🎓    Studying Computer Science and Web Development at Lambda School.
-
-· 💼    Working as a freelance web developer and looking for software engineering role.
-
-· 🌱    Learning more about Computer Science & building projects for non-profit companies.
-
-· 🛠   <h3>Tech Stack</h3>
-
-· 💻    React - JavaScript - Angular - TypeScript - Python - PHP.
-
-· 🌐    HTML CSS JavaScript React Bootstrap Node.js Sprinkle.
-
-· 🛢    MySQL PostSQL Express.
-
-· 🔧    Visual Studio Code Adobe XD, Sketch.
-
-[![Mosae's github stats](https://github-readme-stats.vercel.app/api?username=mosae&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
 <p align="center">
-<a href="https://mosae.dev"><img alt="Website" src="https://img.shields.io/badge/Website-mosae.dev/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mosae-litsoane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mosae%20Litsoane%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mosae5/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mosae5-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mosae@solomonwatson.com"><img alt="Email" src="https://img.shields.io/badge/Email-mosaelitsoane@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="./banner.svg" alt="Mosae Litsoane" width="100%"/>
 </p>
 
-⭐️ From [Mosae](https://github.com/Mosae)
-     
+<br/>
+
+I build premium digital experiences for real estate, healthcare, and commercial businesses — through my agency, **[Solomon Watson](https://solomonwatson.com)**.
+
+<br/>
+
+**Currently working on**
+- 🏗 &nbsp;Rebuilding client sites with performance-first WordPress architecture
+- ⚙️ &nbsp;Custom Gravity Forms integrations, Buffer automation, and Google Workspace pipelines
+- 🌱 &nbsp;Early-stage SaaS ideas in **golf tech** and **real estate tools**
+- 🤝 &nbsp;Pro bono work with nonprofits — BirdStrike.org &amp; FAITH! Association of Mayo Clinic
+
+<br/>
+
+**Tech stack**
+
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/>
+
+[![Mosae's github stats](https://github-readme-stats.vercel.app/api?username=mosae&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+**Connect**
+
+<a href="https://solomonwatson.com"><img alt="Website" src="https://img.shields.io/badge/solomonwatson.com-000?style=flat-square&logo=google-chrome&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/mosae-litsoane/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="mailto:mosae@solomonwatson.com"><img alt="Email" src="https://img.shields.io/badge/mosae@solomonwatson.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+
+<br/>
+
+<sub>⭐️ From <a href="https://github.com/Mosae">Mosae</a> · South Africa 🇿🇦 → Pittsburgh, PA</sub>

@@ -5,7 +5,7 @@
 
 <br/>
 
-I build premium digital experiences for real estate, healthcare, and commercial businesses — through my agency, **[Solomon Watson](https://solomonwatson.com)**.
+I build premium digital experiences for real estate, healthcare, and commercial businesses through my agency, **[Solomon Watson](https://solomonwatson.com)**.
 
 <br/>
 
@@ -13,7 +13,7 @@ I build premium digital experiences for real estate, healthcare, and commercial 
 - 🏗 &nbsp;Rebuilding client sites with performance-first WordPress architecture
 - ⚙️ &nbsp;Custom Gravity Forms integrations, Buffer automation, and Google Workspace pipelines
 - 🌱 &nbsp;Early-stage SaaS ideas in **golf tech** and **real estate tools**
-- 🤝 &nbsp;Pro bono work with nonprofits — BirdStrike.org &amp; FAITH! Association of Mayo Clinic
+- 🤝 &nbsp;Pro bono work with nonprofits &amp; Associations of Mayo Clinic
 
 <br/>
 
@@ -31,10 +31,6 @@ I build premium digital experiences for real estate, healthcare, and commercial 
 
 <br/>
 
-[![Mosae's github stats](https://github-readme-stats.vercel.app/api?username=mosae&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 **Connect**
 
 <a href="https://solomonwatson.com"><img alt="Website" src="https://img.shields.io/badge/solomonwatson.com-000?style=flat-square&logo=google-chrome&logoColor=white"></a>&nbsp;
@@ -43,4 +39,4 @@ I build premium digital experiences for real estate, healthcare, and commercial 
 
 <br/>
 
-<sub>⭐️ From <a href="https://github.com/Mosae">Mosae</a> · South Africa 🇿🇦 → Pittsburgh, PA</sub>
+<sub>⭐️ From <a href="https://github.com/Mosae">Mosae</a> · South Africa 🇿🇦 to Pittsburgh, PA</sub>

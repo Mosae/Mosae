@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mosae/Mosae/master/banner.svg" alt="Mosae Litsoane" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mosae/Mosae/master/banner-light.svg#gh-light-mode-only" alt="Mosae Litsoane" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mosae/Mosae/master/banner-dark.svg#gh-dark-mode-only" alt="Mosae Litsoane" width="100%"/>
 </p>
 
 <br/>

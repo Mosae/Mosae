@@ -13,7 +13,7 @@ I build premium digital experiences for real estate, healthcare, and commercial 
 - 🏗 &nbsp;Rebuilding client sites with performance-first WordPress architecture
 - ⚙️ &nbsp;Custom Gravity Forms integrations, Buffer automation, and Google Workspace pipelines
 - 🌱 &nbsp;Early-stage SaaS ideas in **golf tech** and **real estate tools**
-- 🤝 &nbsp;Pro bono work with nonprofits &amp; Associations of Mayo Clinic
+- 🤝 &nbsp;Years or work with nonprofits &amp; Associations of Mayo Clinic
 
 <br/>
 

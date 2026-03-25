@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Mosae Litsoane" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mosae/Mosae/master/banner.svg" alt="Mosae Litsoane" width="100%"/>
 </p>
 
 <br/>
